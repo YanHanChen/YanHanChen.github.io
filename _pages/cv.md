@@ -13,6 +13,12 @@ redirect_from:
 
 <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
 
+---
+
+<iframe src="{{ base_path }}/files/cv.pdf" width="100%" height="800px" style="border: none;">
+  <p>Your browser does not support PDFs. <a href="{{ base_path }}/files/cv.pdf">Download the PDF</a>.</p>
+</iframe>
+
 <!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
