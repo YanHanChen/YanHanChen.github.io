@@ -11,13 +11,13 @@ redirect_from:
 
 **Last updated: December 2025**
 
-<a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
+<a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" download>Download CV as PDF</a>
 
 ---
 
-<iframe src="{{ base_path }}/files/cv.pdf" width="100%" height="800px" style="border: none;">
-  <p>Your browser does not support PDFs. <a href="{{ base_path }}/files/cv.pdf">Download the PDF</a>.</p>
-</iframe>
+<object data="{{ base_path }}/files/cv.pdf" type="application/pdf" width="100%" height="1000px">
+  <p>Unable to display PDF. <a href="{{ base_path }}/files/cv.pdf">Download it here</a> instead.</p>
+</object>
 
 <!-- Education
 ======
