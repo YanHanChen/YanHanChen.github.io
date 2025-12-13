@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -11,13 +11,11 @@ redirect_from:
 
 **Last updated: December 2025**
 
-<a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" download>Download CV as PDF</a>
+[Download CV as PDF]({{ base_path }}/files/cv.pdf){: .btn .btn--primary}
 
 ---
 
-<object data="{{ base_path }}/files/cv.pdf" type="application/pdf" width="100%" height="1000px">
-  <p>Unable to display PDF. <a href="{{ base_path }}/files/cv.pdf">Download it here</a> instead.</p>
-</object>
+<embed src="{{ base_path }}/files/cv.pdf" type="application/pdf" width="100%" height="1100px" />
 
 <!-- Education
 ======
