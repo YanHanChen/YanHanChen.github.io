@@ -98,6 +98,7 @@
     border-radius: 50%;
     aspect-ratio: 1 / 1;
     object-fit: cover;
+    object-position: center 35%;
 
     @include breakpoint($large) {
       padding: 5px;

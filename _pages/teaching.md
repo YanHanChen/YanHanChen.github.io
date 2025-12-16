@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+# title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
@@ -21,7 +21,7 @@ author_profile: true
 **Volunteer Tutor, CyMath, Iowa State University**  
 *January 2024 – December 2024*
 
-- Volunteer tutor in ISU CyMath, a math tutoring program for students in grades 3–12.
+- Volunteer tutor in [ISU CyMath](https://cymath.iastate.edu), a math tutoring program for students in grades 3–12.
 
 **Substitute Military Service (Education Service), Taiwan**  
 *August 2016 – July 2017*
