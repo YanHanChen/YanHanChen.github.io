@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2020EstimatingRetention
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2020
+date: 2020-09-21
 venue: 'Nature communications'
 
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
