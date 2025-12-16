@@ -16,6 +16,33 @@ About me
 Hi! This is Yan-Han Chen, currently a Ph.D candidate in the Department of Statistics at Iowa State University, where I'm glad to work with my (co)advisors: Professor [Hailiang Liu](https://faculty.sites.iastate.edu/hliu/), [Ruoyu Wu](https://sites.google.com/site/ruoyuwu90/) and [Arka P. Ghosh](https://sites.google.com/view/apghosh/). It's fortunate to have their solid support and guidance.
 Outside of research....
 
+Experience
+======
+
+**Student Contractor, Corteva Agriscience** *Aug 2022 – Aug 2025*
+- Supervised by Dr. Carl Walker.
+- Designed adaptive experiments using Bayesian optimization with Gaussian process regression.
+- Applied reinforcement learning to control water valves in a two-tank system.
+
+**Research Assistant, National Tsing Hua University, Hsinchu, Taiwan** *Aug 2017 – Jun 2020*
+- Supervised by Professor [Anne Chao](https://sites.google.com/view/chao-lab-website/home?authuser=0).
+- Worked on statistical ecology with nonparametric models, including diversity estimation, diversity decomposition/dissimilarity, and extensions to hierarchical structures.
+
+Education
+======
+
+**Iowa State University** *2020 – 2026 (Expected)*  
+Ph.D., Statistics  
+*Ames, Iowa*  
+
+**National Chiao Tung University** *2014 – 2016*  
+M.S., Statistics  
+*Hsinchu, Taiwan*
+
+**National Chiao Tung University** *2010 – 2014*  
+B.S., Applied Mathematics  
+*Hsinchu, Taiwan*
+
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
