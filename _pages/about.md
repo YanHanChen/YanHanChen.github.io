@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-*Expecting to graduate by Summer 2025, I am currently on the academic job market for positions starting in Fall 2026. I would be glad to discuss any opportunities.*
+*Expecting to graduate by Summer 2026, I am currently on the academic job market for positions starting in Fall 2026. I would be glad to discuss any opportunities.*
 
 
 About me
