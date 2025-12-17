@@ -13,7 +13,7 @@ redirect_from:
 About me
 ======
 
-Hi! This is Yan-Han Chen, currently a Ph.D candidate in the Department of Statistics at Iowa State University, where I'm glad to work with my (co)advisors: Professor [Hailiang Liu](https://faculty.sites.iastate.edu/hliu/), [Ruoyu Wu](https://sites.google.com/site/ruoyuwu90/) and [Arka P. Ghosh](https://sites.google.com/view/apghosh/). It's fortunate to have their solid support and guidance.
+Hi! This is Yan-Han Chen, currently a Ph.D candidate in the [Department of Statistics at Iowa State University](https://www.stat.iastate.edu), where I'm glad to work with my (co)advisors: Professor [Hailiang Liu](https://faculty.sites.iastate.edu/hliu/), [Ruoyu Wu](https://sites.google.com/site/ruoyuwu90/) and [Arka P. Ghosh](https://sites.google.com/view/apghosh/). It's fortunate to have their solid support and guidance.
 Outside of research....
 
 Experience
