@@ -7,11 +7,11 @@ author_profile: true
 
 ## Research Interests
 
-My research interests span across interacting particle systems and data-driven optimal transport.
+My research interests include applied probability, stochastic systems and its application in machine learning 
 
 In particular, currently my works focus on:
 
-- Limit theorems for mean-field and weakly interacting queueing systems
+- Limit behavior for mean-field and weakly interacting queueing systems
 - Generative modeling via optimal transport or Schrödinger bridges
 
 <!-- 
