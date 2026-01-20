@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Experience
-
 **Instructor, Department of Statistics, Iowa State University**
 
 - STAT 5280: Visual Business Analytics (Fall 2025)

@@ -56,3 +56,15 @@ In particular, currently my work focuses on:
 - Thorn, S., Chao, A., Bernhardt-Römermann, M., **Chen, Y.-H.**, et al. (2020). Rare species, functional groups, and evolutionary lineages drive successional trajectories in disturbed forests. *Ecology*, 101(3), e02949. [[Journal]](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.2949)
 
 - Georgiev, K.B., Chao, A., Castro, J., **Chen, Y.-H.**, et al. (2020). Salvage logging changes the taxonomic, phylogenetic and functional successional trajectories of forest bird communities. *Journal of Applied Ecology*, 57(6), 1103-1112. [[Journal]](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13482)
+
+---
+
+## Presentations
+
+**Neural Solver for Wasserstein Geodesics and Optimal Transport Dynamics**
+- SIAM Central States Section Annual Meeting (Oct 2025), Fayetteville, AR — Contributed Talk (Travel Award Recipient)
+- Great Lakes Section of SIAM (Sep 2025), Chicago, IL — Mini-session Talk
+
+**Limit Theorems for Heterogeneous Graphon JSQ(d) Model**
+- INFORMS Annual Meeting (Oct 2024), Seattle, WA — Invited Talk
+- Analysis and Probability Seminar (Oct 2024), Iowa State University — Seminar Talk
