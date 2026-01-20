@@ -7,12 +7,12 @@ author_profile: true
 
 ## Research Interests
 
-My research interests include applied probability, stochastic systems and its application in machine learning. 
+My research interest mostly involves stochastic process such as mean-field type system. 
+I'm interested in the theoretical study as well as the application in machine learning. 
+Currently I have two specific topics that I intensively work on. 
 
-In particular, currently my work focuses on:
-
-- Limit behavior of mean-field and weakly interacting queueing systems
-- Generative modeling via optimal transport or Schrödinger bridges
+- Limit theorems for hetergeneous queueing systems
+- Neural solver for Wasserstein geodesic or Schrödinger bridges
 
 <!-- 
 {% if site.author.googlescholar %}
