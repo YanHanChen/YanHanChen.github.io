@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV as PDF]({{ base_path }}/files/cv.pdf){: .btn .btn--primary}(Last updated: December 2025)
+[Download CV as PDF]({{ base_path }}/files/cv.pdf){: .btn .btn--primary}(Last updated: Jan 2025)
 
 ---
 
