@@ -7,8 +7,8 @@ author_profile: true
 
 ## Research Interests
 
-My research interest mostly involves stochastic process such as mean-field type system. 
-I'm interested in the theoretical study as well as the application in machine learning. 
+Broadly, my research interest mostly involves stochastic process such as mean-field type system and optimal transport. 
+I'm interested in the theoretical study as well as the application in machine learning, generative modeling and sampling. 
 Currently I have two specific topics that I intensively work on. 
 
 - Limit theorems for hetergeneous queueing systems
@@ -47,9 +47,9 @@ Currently I have two specific topics that I intensively work on.
 ## Publications & Preprints
 
 
-- **Chen, Y.-H.**, Liu, H. (2026+). Neural solver for Wasserstein Geodesics and Optimal Transport dynamic. *Submitted to Journal of Scientific Computing*.
+- **Chen, Y.-H.**, Liu, H. Submitted. Neural solver for Wasserstein Geodesics and Optimal Transport dynamic. *Submitted to Journal of Scientific Computing*.
 
-- **Chen, Y.-H.**, Ghosh, A., Wu, R. (2026+). Limit theorems for heterogeneous graphon JSQ(d) model. *Near Completion*.
+- **Chen, Y.-H.**, Ghosh, A., Wu, R. Near completetion. Limit theorems for heterogeneous graphon JSQ(d) model. *Near Completion*.
 
 - Thorn, S., Chao, A., Georgiev, K.B., Müller, J., Bässler, C., Campbell, J.L., Castro, J., **Chen, Y.-H.**, et al. (2020). Estimating retention benchmarks for salvage logging to protect biodiversity. *Nature Communications*, 11, 4243. [[Journal]](https://www.nature.com/articles/s41467-020-18612-4)
 
