@@ -13,7 +13,7 @@ redirect_from:
 
 ---
 
-<embed src="{{ base_path }}/files/cv.pdf" type="application/pdf" width="100%" height="1100px" />
+<embed src="{{ base_path }}/files/CV_YanHanChen.pdf" type="application/pdf" width="100%" height="1100px" />
 
 <!-- Education
 ======
