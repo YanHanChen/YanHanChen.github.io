@@ -47,7 +47,7 @@ Currently I have two specific topics that I intensively work on.
 ## Publications & Preprints
 
 
-- **Chen, Y.-H.**, Liu, H. Submitted. Neural solver for Wasserstein Geodesics and Optimal Transport dynamic. *Submitted to Journal of Scientific Computing*.
+- **Chen, Y.-H.**, Liu, H. Submitted. Neural solver for Wasserstein Geodesics and Optimal Transport dynamic. *Revision submitted* [[arXiv]](https://arxiv.org/abs/2602.22003).
 
 - **Chen, Y.-H.**, Ghosh, A., Wu, R. Near completetion. Limit theorems for heterogeneous graphon JSQ(d) model. *Near Completion*.
 
