@@ -49,7 +49,7 @@ Currently I have two specific topics that I intensively work on.
 
 - **Chen, Y.-H.**, Liu, H. Neural solver for Wasserstein Geodesics and Optimal Transport dynamic. *Revision submitted* [[arXiv]](https://arxiv.org/abs/2602.22003).
 
-- **Chen, Y.-H.**, Ghosh, A., Wu, R. Near completetion. Limit theorems for heterogeneous graphon JSQ(d) model. *Near Completion*.
+- **Chen, Y.-H.**, Ghosh, A., Wu, R. Limit theorems for heterogeneous graphon JSQ(d) model. *Near Completion*.
 
 - Thorn, S., Chao, A., Georgiev, K.B., Müller, J., Bässler, C., Campbell, J.L., Castro, J., **Chen, Y.-H.**, et al. (2020). Estimating retention benchmarks for salvage logging to protect biodiversity. *Nature Communications*, 11, 4243. [[Journal]](https://www.nature.com/articles/s41467-020-18612-4)
 
