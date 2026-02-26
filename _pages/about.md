@@ -19,7 +19,7 @@ Hi! I am Yan-Han Chen, currently a Ph.D. candidate in the [Department of Statist
 Experience
 ======
 
-**Student Contractor, Corteva Agriscience** *Aug 2022 – Aug 2025*
+**Corporate Reasearch Assistant, Corteva Agriscience** *Aug 2022 – Aug 2025*
 - Supervised by Dr. Carl Walker.
 - Designed adaptive experiments using Bayesian optimization with Gaussian process regression.
 - Applied reinforcement learning to control water valves in a two-tank system.
