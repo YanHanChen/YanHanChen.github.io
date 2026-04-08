@@ -7,8 +7,9 @@ author_profile: true
 
 ## Research Interests
 
-Broadly, my research interest mostly involves stochastic process such as mean-field type system and optimal transport. 
-I'm interested in the theoretical study as well as the application in machine learning, generative modeling and sampling. 
+BBroadly, my research interests lie in probability and its role in the mathematical foundations of data science. 
+My current work focuses on interacting particle systems and dynamical optimal transport, spanning mathematical analysis and applications in machine learning.
+
 Currently I have two specific topics that I intensively work on. 
 
 - Limit theorems for hetergeneous queueing systems
