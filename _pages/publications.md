@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Research Interests
-
 Broadly, my research interests lie in probability and its role in the mathematical foundations of data science. 
 My current work focuses on interacting particle systems and dynamical optimal transport, spanning mathematical analysis and applications in machine learning.
 
