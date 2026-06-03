@@ -46,7 +46,7 @@ Currently I have two specific projects that I intensively work on.
 ## Publications & Preprints
 
 
-- **Chen, Y.-H.**, Liu, H. Neural solver for Wasserstein Geodesics and optimal transport dynamics. *Revision submitted* [[arXiv]](https://arxiv.org/abs/2602.22003).
+- **Chen, Y.-H.**, Liu, H. Neural solver for Wasserstein Geodesics and optimal transport dynamics. *To appear in Journal of Scientific Computing* [[arXiv]](https://arxiv.org/abs/2602.22003).
 
 - **Chen, Y.-H.**, Ghosh, A., Wu, R. Limit theorems for heterogeneous graphon JSQ(d) model. *Near Completion*.
 
