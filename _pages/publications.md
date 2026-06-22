@@ -11,7 +11,7 @@ My current work focuses on interacting particle systems and dynamical optimal tr
 Currently I have two specific projects that I intensively work on. 
 
 - Limit theorems for hetergeneous queueing systems
-- Neural solver for Wasserstein geodesic or Schrödinger bridge s
+- Neural solver for Wasserstein geodesic or Schrödinger bridge
 
 <!-- 
 {% if site.author.googlescholar %}
