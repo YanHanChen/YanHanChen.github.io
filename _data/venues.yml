@@ -1,0 +1,12 @@
+# Badge links/colors for the "abbr" field of entries in _bibliography/papers.bib
+"J. Sci. Comput.":
+  url: https://link.springer.com/journal/10915
+
+"Nat. Commun.":
+  url: https://www.nature.com/ncomms/
+
+"Ecology":
+  url: https://esajournals.onlinelibrary.wiley.com/journal/19399170
+
+"J. Appl. Ecol.":
+  url: https://besjournals.onlinelibrary.wiley.com/journal/13652664
