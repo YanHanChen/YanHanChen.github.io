@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2026-05-01
+date: 2026-05-16
 inline: true
 related_posts: false
 ---
 
-Received the Teaching Excellence Award at Iowa State University.
+Received Teaching Excellence Award at Iowa State University.
+

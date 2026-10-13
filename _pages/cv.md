@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /cv/
-title: CV
-description:
+title: Curriculum Vitae
+description: "Last updated: Oct 13, 2026"
 nav: true
 nav_order: 4
 ---

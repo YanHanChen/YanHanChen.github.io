@@ -1,21 +1,21 @@
 # Co-author names in publications are linked to these pages.
 # Key = last name in lowercase; firstname = every way the first name appears in the .bib file.
-"liu":
-  - firstname: ["Hailiang", "H."]
-    url: https://faculty.sites.iastate.edu/hliu/
+# "liu":
+#   - firstname: ["Hailiang", "H."]
+#     url: https://faculty.sites.iastate.edu/hliu/
 
-"wu":
-  - firstname: ["Ruoyu", "R."]
-    url: https://sites.google.com/site/ruoyuwu90/
+# "wu":
+#   - firstname: ["Ruoyu", "R."]
+#     url: https://sites.google.com/site/ruoyuwu90/
 
-"ghosh":
-  - firstname: ["Arka", "A.", "Arka P.", "A. P."]
-    url: https://sites.google.com/view/apghosh/
+# "ghosh":
+#   - firstname: ["Arka", "A.", "Arka P.", "A. P."]
+#     url: https://sites.google.com/view/apghosh/
 
-"chao":
-  - firstname: ["Anne", "A."]
-    url: https://sites.google.com/view/chao-lab-website/home
+# "chao":
+#   - firstname: ["Anne", "A."]
+#     url: https://sites.google.com/view/chao-lab-website/home
 
-"halder":
-  - firstname: ["Abhishek", "A."]
-    url: https://abhishekhalder.org
+# "halder":
+#   - firstname: ["Abhishek", "A."]
+#     url: https://abhishekhalder.org
