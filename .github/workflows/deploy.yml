@@ -58,9 +58,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 jobs:
   deploy:
@@ -103,16 +101,8 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
-      - name: Configure Pages
-        if: github.event_name != 'pull_request'
-        uses: actions/configure-pages@v5
-      - name: Upload Pages artifact 📤
-        if: github.event_name != 'pull_request'
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: _site
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
-        uses: actions/deploy-pages@v5
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          timeout: 1200000
+          folder: _site
