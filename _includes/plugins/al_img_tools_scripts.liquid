@@ -1,0 +1,6 @@
+{%- comment -%}
+  Local override of al_folio_core 1.0.15 _includes/plugins/al_img_tools_scripts.liquid.
+  Adds the Safari-safe zoom script (see assets/js/zoom-overlay.js).
+{%- endcomment -%}
+{% al_img_tools_scripts %}
+<script defer src="{{ '/assets/js/zoom-overlay.js' | relative_url }}"></script>
